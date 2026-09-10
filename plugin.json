@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "django-styleguide",
+  "version": "1.0.0",
+  "description": "HackSoft Django Styleguide as agent skills — services, selectors, models, DRF APIs, errors, testing, Celery",
+  "author": {
+    "name": "Reza Ghasemi",
+    "url": "https://github.com/sysp0"
+  },
+  "repository": "https://github.com/sysp0/dj-style-skill",
+  "license": "MIT",
+  "keywords": [
+    "django",
+    "drf",
+    "styleguide",
+    "services",
+    "selectors",
+    "celery",
+    "hacksoft"
+  ]
+}
